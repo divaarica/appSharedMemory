@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\SolutionSharedMemory\WinFormApi\obj\Debug\WinFormApi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SolutionSharedMemory\WinFormApi\obj\Debug\WinFormApi.Form1.resources
+C:\Users\user\source\repos\SolutionSharedMemory\WinFormApi\obj\Debug\WinFormApi.Properties.Resources.resources
+C:\Users\user\source\repos\SolutionSharedMemory\WinFormApi\obj\Debug\WinFormApi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SolutionSharedMemory\WinFormApi\obj\Debug\WinFormApi.csproj.CoreCompileInputs.cache

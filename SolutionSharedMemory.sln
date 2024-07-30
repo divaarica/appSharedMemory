@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSharedMemory", "AppSharedMemory\AppSharedMemory.csproj", "{D4BFBB55-75D1-4F1A-8552-127C08CB8D39}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AA9AC82C-E546-45CF-9C6D-2593F6D52D7C} = {AA9AC82C-E546-45CF-9C6D-2593F6D52D7C}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetierSharedMemory", "MetierSharedMemory\MetierSharedMemory.csproj", "{AA9AC82C-E546-45CF-9C6D-2593F6D52D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSharedMemory", "ApiSharedMemory\ApiSharedMemory.csproj", "{2D264F2C-61D7-468A-A064-F7B2A694E55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiMemory", "apiMemory\apiMemory.csproj", "{3A4B31DE-0625-4477-B2B9-15D318D7A581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormApi", "WinFormApi\WinFormApi.csproj", "{C695BF23-22EF-474D-961A-A15A0ED60028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4BFBB55-75D1-4F1A-8552-127C08CB8D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BFBB55-75D1-4F1A-8552-127C08CB8D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BFBB55-75D1-4F1A-8552-127C08CB8D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BFBB55-75D1-4F1A-8552-127C08CB8D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9AC82C-E546-45CF-9C6D-2593F6D52D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9AC82C-E546-45CF-9C6D-2593F6D52D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9AC82C-E546-45CF-9C6D-2593F6D52D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9AC82C-E546-45CF-9C6D-2593F6D52D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D264F2C-61D7-468A-A064-F7B2A694E55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D264F2C-61D7-468A-A064-F7B2A694E55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D264F2C-61D7-468A-A064-F7B2A694E55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D264F2C-61D7-468A-A064-F7B2A694E55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4B31DE-0625-4477-B2B9-15D318D7A581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4B31DE-0625-4477-B2B9-15D318D7A581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4B31DE-0625-4477-B2B9-15D318D7A581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4B31DE-0625-4477-B2B9-15D318D7A581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C695BF23-22EF-474D-961A-A15A0ED60028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C695BF23-22EF-474D-961A-A15A0ED60028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C695BF23-22EF-474D-961A-A15A0ED60028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C695BF23-22EF-474D-961A-A15A0ED60028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9ACF2AB-5DAD-4DC1-8D2E-8C0237E7B6B9}
+	EndGlobalSection
+EndGlobal
